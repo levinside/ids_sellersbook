@@ -107,7 +107,7 @@
 
     & li {
       position: relative;
-      margin-bottom: calc(var(--ids__density) * 0.5em);
+      margin-bottom: calc(var(--ids__density) * 0.3em);
     }
   }
 
